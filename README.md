@@ -33,9 +33,9 @@ Software engineer in São Paulo, working with companies abroad since 2021. I've 
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,postgres,prisma,redis&perline=10" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,graphql,postgres,redis&perline=10" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,jest,vitest,git,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,jest,vitest,git,figma,prisma&perline=10" /><img src="./assets/typeorm.svg" alt="TypeORM" title="TypeORM" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a2e,100:05070d&height=120&section=footer" />

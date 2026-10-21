@@ -14,23 +14,23 @@
 
 ---
 
-### 👋 Hi, I'm Arthur
+### Hi, I'm Arthur
 
 Software engineer in São Paulo, working with companies abroad since 2021. I've been shipping TypeScript in production since 2019, often as the only engineer on the product.
 
-- 🎨 Frontend and mobile with **React, Next.js and React Native**, from design systems to dashboards
-- 🧱 Backend with **Node.js** (NestJS, Fastify), **PostgreSQL** and **Prisma**
-- 🤖 LLM features in production shape: structured outputs, tool calling, RAG on pgvector, and the evals that decide what ships
-- 💬 Ask me about frontend architecture, typed APIs, or measuring an AI feature before you trust it
+- Frontend and mobile with **React, Next.js and React Native**, from design systems to dashboards
+- Backend with **Node.js** (NestJS, Fastify), **PostgreSQL** and **Prisma**
+- LLM features in production shape: structured outputs, tool calling, RAG on pgvector, and the evals that decide what ships
+- Ask me about frontend architecture, typed APIs, or measuring an AI feature before you trust it
 
-### 🌱 Featured projects
+### Featured projects
 
 | Project | What it is |
 |---|---|
 | [**finwise**](https://github.com/arthurfrollini/finwise-api) | A NestJS finance API where evals decide what ships: transaction categorization, RAG answers with citations and a tool-calling agent, each with a measured baseline. |
 | [**PlantCare**](https://github.com/arthurfrollini/plantcare) | Watering reminders for your plants: an Expo app and a Fastify + PostgreSQL API in one TypeScript monorepo, in English and Portuguese. |
 
-### 🛠️ Tech stack
+### Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,graphql,postgres,redis&perline=10" />
